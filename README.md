@@ -1,4 +1,4 @@
-# Laravel rest API Simple xercise 
+# Laravel rest API Simple exercise 
 
 
 
